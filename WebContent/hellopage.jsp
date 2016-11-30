@@ -8,8 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
 Message is: ${message} 
-  
 </body>
 </html>
